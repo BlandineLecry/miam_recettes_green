@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "title": "Quiche Lorraine",
+    "ingredients": "pâte feuilletée, lardons, œufs, crème fraîche, gruyère râpé, sel, poivre",
+    "instructions": "1. Préchauffez le four à 180°C.\n2. Étalez la pâte dans un moule à tarte.\n3. Disposez les lardons sur la pâte.\n4. Battez les œufs avec la crème fraîche, le sel et le poivre.\n5. Versez le mélange sur les lardons et saupoudrez de gruyère râpé.\n6. Faites cuire au four pendant 30-40 minutes.",
+    "image_name": "quiche_lorraine.jpg",
+    "cleaned_ingredients": "pâte feuilletée, lardons, œufs, crème fraîche, gruyère râpé"
+  },
+  {
+    "id": 2,
+    "title": "Soupe de légumes",
+    "ingredients": "pommes de terre, carottes, poireaux, oignons, bouillon de légumes, sel, poivre",
+    "instructions": "1. Épluchez et coupez les légumes en morceaux.\n2. Faites revenir les oignons dans une casserole.\n3. Ajoutez les légumes et le bouillon.\n4. Laissez cuire à feu doux pendant 30 minutes.\n5. Mixez la soupe jusqu'à obtenir une consistance lisse.",
+    "image_name": "soupe_de_legumes.jpg",
+    "cleaned_ingredients": "pommes de terre, carottes, poireaux, oignons, bouillon de légumes"
+  },
+  {
+    "id": 3,
+    "title": "Pâtes à la Carbonara",
+    "ingredients": "pâtes, lardons, œufs, parmesan râpé, sel, poivre",
+    "instructions": "1. Faites cuire les pâtes dans de l'eau bouillante salée.\n2. Faites revenir les lardons dans une poêle.\n3. Battez les œufs avec du parmesan, du sel et du poivre.\n4. Mélangez les pâtes égouttées avec les lardons, puis incorporez le mélange œufs-parmesan hors du feu.",
+    "image_name": "pates_carbonara.jpg",
+    "cleaned_ingredients": "pâtes, lardons, œufs, parmesan"
+  },
+  {
+    "id": 4,
+    "title": "Tarte aux pommes",
+    "ingredients": "pâte brisée, pommes, sucre, cannelle, beurre",
+    "instructions": "1. Préchauffez le four à 180°C.\n2. Étalez la pâte brisée dans un moule.\n3. Disposez les tranches de pommes sur la pâte.\n4. Saupoudrez de sucre et de cannelle.\n5. Ajoutez quelques noisettes de beurre.\n6. Faites cuire au four pendant 25-30 minutes.",
+    "image_name": "tarte_aux_pommes.jpg",
+    "cleaned_ingredients": "pâte brisée, pommes, sucre, cannelle, beurre"
+  },
+  {
+    "id": 5,
+    "title": "Poulet au curry",
+    "ingredients": "poulet, lait de coco, curry en poudre, oignons, ail, huile d'olive, sel",
+    "instructions": "1. Faites revenir les oignons et l'ail dans de l'huile d'olive.\n2. Ajoutez les morceaux de poulet et faites-les dorer.\n3. Saupoudrez de curry en poudre et mélangez.\n4. Versez le lait de coco et laissez mijoter 20 minutes à feu doux.",
+    "image_name": "poulet_curry.jpg",
+    "cleaned_ingredients": "poulet, lait de coco, curry, oignons, ail"
+  },
+  {
+    "id": 6,
+    "title": "Lasagnes à la bolognaise",
+    "ingredients": "pâtes à lasagnes, viande hachée, tomates concassées, oignons, ail, béchamel, gruyère râpé, sel, poivre",
+    "instructions": "1. Préchauffez le four à 180°C.\n2. Faites revenir les oignons et l'ail dans une poêle, puis ajoutez la viande hachée et les tomates concassées.\n3. Alternez les couches de pâtes, sauce bolognaise et béchamel dans un plat.\n4. Saupoudrez de gruyère râpé et enfournez pendant 40 minutes.",
+    "image_name": "lasagnes_bolognaise.jpg",
+    "cleaned_ingredients": "pâtes à lasagnes, viande hachée, tomates, oignons, ail, béchamel, gruyère"
+  },
+  {
+    "id": 7,
+    "title": "Gratin dauphinois",
+    "ingredients": "pommes de terre, crème fraîche, lait, ail, noix de muscade, sel, poivre",
+    "instructions": "1. Préchauffez le four à 180°C.\n2. Épluchez et coupez les pommes de terre en fines rondelles.\n3. Mélangez la crème, le lait, l'ail, la noix de muscade, le sel et le poivre.\n4. Disposez les pommes de terre dans un plat et versez le mélange dessus.\n5. Faites cuire au four pendant 50 minutes.",
+    "image_name": "gratin_dauphinois.jpg",
+    "cleaned_ingredients": "pommes de terre, crème fraîche, lait, ail, muscade"
+  },
+  {
+    "id": 8,
+    "title": "Salade Niçoise",
+    "ingredients": "salade verte, tomates, œufs durs, olives noires, thon, haricots verts, vinaigrette",
+    "instructions": "1. Lavez la salade et les légumes.\n2. Faites cuire les haricots verts à l'eau bouillante.\n3. Coupez les œufs durs en quartiers.\n4. Mélangez tous les ingrédients avec la vinaigrette.",
+    "image_name": "salade_nicoise.jpg",
+    "cleaned_ingredients": "salade, tomates, œufs, olives, thon, haricots"
+  },
+  {
+    "id": 9,
+    "title": "Ratatouille",
+    "ingredients": "aubergines, courgettes, poivrons, tomates, oignons, ail, huile d'olive, herbes de Provence, sel, poivre",
+    "instructions": "1. Coupez tous les légumes en dés.\n2. Faites revenir les oignons et l'ail dans de l'huile d'olive.\n3. Ajoutez les légumes et les herbes de Provence.\n4. Faites mijoter à feu doux pendant 40 minutes.",
+    "image_name": "ratatouille.jpg",
+    "cleaned_ingredients": "aubergines, courgettes, poivrons, tomates, oignons, ail"
+  },
+  {
+    "id": 10,
+    "title": "Crêpes sucrées",
+    "ingredients": "farine, œufs, lait, sucre, beurre, sel",
+    "instructions": "1. Mélangez la farine, les œufs, le lait, le sucre et une pincée de sel.\n2. Faites chauffer une poêle avec un peu de beurre.\n3. Versez une louche de pâte et faites cuire chaque crêpe des deux côtés.",
+    "image_name": "crepes_sucrees.jpg",
+    "cleaned_ingredients": "farine, œufs, lait, sucre, beurre"
+  },
+  {
+    "id": 11,
+    "title": "Couscous au poulet",
+    "ingredients": "semoule, poulet, carottes, courgettes, pois chiches, oignons, épices à couscous, huile d'olive, sel",
+    "instructions": "1. Faites revenir le poulet dans une marmite avec de l'huile d'olive.\n2. Ajoutez les légumes coupés en morceaux, les pois chiches et les épices.\n3. Couvrez d'eau et laissez mijoter.\n4. Préparez la semoule selon les instructions du paquet.\n5. Servez le poulet et les légumes sur la semoule.",
+    "image_name": "couscous_poulet.jpg",
+    "cleaned_ingredients": "semoule, poulet, carottes, courgettes, pois chiches, oignons, épices"
+  },
+  {
+    "id": 12,
+    "title": "Tarte au citron meringuée",
+    "ingredients": "pâte sablée, citrons, sucre, œufs, beurre, blancs d'œufs",
+    "instructions": "1. Étalez la pâte sablée dans un moule et faites-la cuire à blanc.\n2. Préparez une crème au citron en mélangeant le jus de citron, le sucre, les œufs et le beurre.\n3. Versez la crème sur la pâte cuite.\n4. Montez les blancs d'œufs en neige avec du sucre pour faire la meringue.\n5. Étalez la meringue sur la tarte et faites dorer au four.",
+    "image_name": "tarte_citron_meringuee.jpg",
+    "cleaned_ingredients": "pâte sablée, citrons, sucre, œufs, beurre, blancs d'œufs"
+  },
+  {
+    "id": 13,
+    "title": "Chili con carne",
+    "ingredients": "viande hachée, haricots rouges, tomates, poivrons, oignons, ail, épices pour chili, huile d'olive, sel",
+    "instructions": "1. Faites revenir les oignons, l'ail et les poivrons dans de l'huile d'olive.\n2. Ajoutez la viande hachée et faites-la cuire.\n3. Incorporez les tomates, les haricots rouges et les épices.\n4. Laissez mijoter à feu doux pendant 30 minutes.",
+    "image_name": "chili_con_carne.jpg",
+    "cleaned_ingredients": "viande hachée, haricots rouges, tomates, poivrons, oignons, ail, épices"
+  },
+  {
+    "id": 14,
+    "title": "Salade César",
+    "ingredients": "salade romaine, poulet, croûtons, parmesan, sauce César",
+    "instructions": "1. Coupez la salade en morceaux.\n2. Faites griller les filets de poulet et coupez-les en tranches.\n3. Mélangez la salade, les croûtons, le poulet et le parmesan.\n4. Ajoutez la sauce César et servez frais.",
+    "image_name": "salade_cesar.jpg",
+    "cleaned_ingredients": "salade romaine, poulet, croûtons, parmesan, sauce"
+  },
+  {
+    "id": 15,
+    "title": "Bœuf bourguignon",
+    "ingredients": "bœuf, carottes, oignons, vin rouge, bouillon, ail, lardons, champignons, herbes aromatiques, huile, sel, poivre",
+    "instructions": "1. Faites revenir les lardons, les oignons et les morceaux de bœuf dans une cocotte.\n2. Ajoutez les carottes, l'ail, le vin rouge et le bouillon.\n3. Incorporez les champignons et les herbes aromatiques.\n4. Laissez mijoter à feu doux pendant 2 à 3 heures.",
+    "image_name": "boeuf_bourguignon.jpg",
+    "cleaned_ingredients": "bœuf, carottes, oignons, vin rouge, bouillon, ail, lardons, champignons"
+  },
+  {
+    "id": 16,
+    "title": "Fondant au chocolat",
+    "ingredients": "chocolat noir, beurre, sucre, œufs, farine",
+    "instructions": "1. Faites fondre le chocolat avec le beurre.\n2. Ajoutez le sucre, les œufs et la farine.\n3. Mélangez bien et versez dans un moule beurré.\n4. Faites cuire au four à 180°C pendant 10-12 minutes.",
+    "image_name": "fondant_chocolat.jpg",
+    "cleaned_ingredients": "chocolat noir, beurre, sucre, œufs, farine"
+  },
+  {
+    "id": 17,
+    "title": "Pizza Margherita",
+    "ingredients": "pâte à pizza, tomates, mozzarella, basilic, huile d'olive, sel",
+    "instructions": "1. Étalez la pâte à pizza.\n2. Étalez la sauce tomate sur la pâte.\n3. Ajoutez des tranches de mozzarella.\n4. Enfournez à 220°C pendant 15 minutes.\n5. Ajoutez des feuilles de basilic avant de servir.",
+    "image_name": "pizza_margherita.jpg",
+    "cleaned_ingredients": "pâte à pizza, tomates, mozzarella, basilic"
+  },
+  {
+    "id": 18,
+    "title": "Riz cantonais",
+    "ingredients": "riz, œufs, petits pois, jambon, oignons, sauce soja, huile",
+    "instructions": "1. Faites cuire le riz à l'avance et laissez-le refroidir.\n2. Faites revenir les oignons dans de l'huile.\n3. Ajoutez les œufs battus, les petits pois, le jambon et le riz.\n4. Incorporez la sauce soja et mélangez bien.",
+    "image_name": "riz_cantonais.jpg",
+    "cleaned_ingredients": "riz, œufs, petits pois, jambon, oignons, sauce soja"
+  },
+  {
+    "id": 19,
+    "title": "Mousse au chocolat",
+    "ingredients": "chocolat noir, œufs, sucre",
+    "instructions": "1. Faites fondre le chocolat.\n2. Séparez les blancs des jaunes d'œufs.\n3. Mélangez les jaunes avec le chocolat fondu.\n4. Montez les blancs en neige avec le sucre.\n5. Incorporez délicatement les blancs au mélange chocolaté.\n6. Laissez reposer au frais pendant 2 heures.",
+    "image_name": "mousse_chocolat.jpg",
+    "cleaned_ingredients": "chocolat noir, œufs, sucre"
+  },
+  {
+    "id": 20,
+    "title": "Galette des rois",
+    "ingredients": "pâte feuilletée, poudre d'amandes, sucre, beurre, œufs, fève",
+    "instructions": "1. Mélangez la poudre d'amandes, le sucre, le beurre et les œufs pour faire la frangipane.\n2. Étalez une pâte feuilletée, étalez la frangipane dessus et cachez la fève.\n3. Recouvrez avec une deuxième pâte feuilletée et soudez les bords.\n4. Faites des motifs sur le dessus et dorez avec un jaune d'œuf.\n5. Faites cuire au four à 180°C pendant 30 minutes.",
+    "image_name": "galette_rois.jpg",
+    "cleaned_ingredients": "pâte feuilletée, poudre d'amandes, sucre, beurre, œufs"
+  }
+]
+
